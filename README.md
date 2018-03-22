@@ -36,4 +36,4 @@ matplotlib 2.1.2
 
 
 ## License
-Copyright © 2016 T_Sumida Distributed under the MIT License.
+Copyright © 2018 T_Sumida Distributed under the MIT License.
