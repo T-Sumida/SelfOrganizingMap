@@ -25,9 +25,13 @@ $ python plot.py
 
 ## Requirement
 C++11
+
 GNU Make 3.81
+
 Python 3.6.0
+
 numpy 1.14.1
+
 matplotlib 2.1.2
 
 
